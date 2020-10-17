@@ -188,9 +188,12 @@ APIs
 
 - [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
 - [Coingecko.com](https://www.coingecko.com/en/api) - Free, comprehensive cryptocurrency API.
+- [CurrencyLayer.com](https://currencylayer.com/documentation) - Exchange rates and currency conversion API.
 - [CurrencyScoop.com](https://currencyscoop.com/) - Real-time and historical currency rates JSON API.
+- [ExchangeRate-API.com](https://www.exchangerate-api.com/docs/overview) - Currency conversion API.
 - [ExchangeRatesAPI.io](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
+- [Frankfurter.app](https://www.frankfurter.app/docs/) - Exchange rates and currency data API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [OpenRates.io](http://www.openrates.io/) - Live exchange rates and currency conversion API.
 - [ratesapi.io](https://ratesapi.io/) - Free foreign currency exchange rates and currency conversion.
 
@@ -225,6 +228,7 @@ APIs
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Comichron Data](https://github.com/comichron-data/api) - API for comic sales data from comichron.com. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images cartegorized by tags.
+- [Final Space API](https://finalspaceapi.com/docs/) - A RESTful API that provides information and images about Final Space show. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fun Translations API](https://funtranslations.com/api/) - Translate to over 50+ languages from various TV Series and Movies.
 - [Lord of the Rings API](https://the-one-api.herokuapp.com/) - Get data about the books, the movie trilogy, many characters and quotes.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
@@ -267,7 +271,7 @@ APIs
  - [Nigeria](https://www.cbn.gov.ng/rates/) - not only exchange rates, but also other info in CSV format.
  - [Peru](https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
  - [Poland](https://api.nbp.pl) - Currency exchange rates and gold prices in the XML and JSON formats.
- - [Switzerland](https://data.snb.ch/en) - rich variety of datan in XLS and CSV formats.
+ - [Switzerland](https://data.snb.ch/en) - rich variety of data in XLS and CSV formats.
  - [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
 
 ### Fitness
@@ -432,7 +436,7 @@ APIs
 - [Discogs](https://www.discogs.com/developers/) - Access database of artists, labels, releases, marketplace and more.
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 - [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
-- [NPR API](http://www.npr.org/api/index) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
+- [NPR API](https://dev.npr.org/) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 - [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
 - [SearchLy](https://github.com/AlbertSuarez/searchly) - Song similarity search API based on lyrics. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
@@ -454,6 +458,7 @@ APIs
 ### Music Identification
 
 - [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [AudD](https://docs.audd.io/) - Recognize music in microphone recordings, audio files and UGC. 
 - [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
 
 ### Music Lyrics
@@ -562,6 +567,7 @@ APIs
 - [MySocialApp](https://mysocialapp.io) - Seamless Social Networking features, API, SDK for any app.
 - [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
 - [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Saidit](https://github.com/Mr-Steal-Your-Script/rsaw) - Open source API wrapper made for the Reddit alternative Saidit.net. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Snapchat](https://github.com/mgp25/SC-API) - PHP library of Snapchat’s private API. #Private
 - [Telegram](https://core.telegram.org/) - The Telegram API allows you to build your own customized Telegram clients.
 - [Trash Nothing](https://trashnothing.com/developer) - Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day.
